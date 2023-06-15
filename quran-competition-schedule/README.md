@@ -90,24 +90,34 @@
       The first table data in each row should have the attribute class with the value "left".
    </li>
    <li>
-      Inside each of the 6 <code>&lt;td class="left"&gt;</code> elements, add <code>&lt;h3&gt;</code> elements that include the times of the events:
-      9:00 AM
-      9:10 AM
-      10:00 AM
-      11:00 AM
-      12:00 PM
-      1:00 PM
-      1:45 PM
+      Inside each of the 6 <code>&lt;td class="left"&gt;</code> elements, add <code>&lt;h3&gt;</code> elements that include the times of the events (look at the list below)
    </li>
    <li>
-      Inside each of the <code>&lt;td&gt;</code> elements that does not have a class attribute with a value of "left", add <code>&lt;h3&gt;</code> elements that include the name of events:
-      Introduction
-      Opening by Shaykh Rasheed Barbee
-      Boys Round 1
-      Girls Round 2
-      Boys Round 3
-      Girls Round 4
-      Closing by Shaykh Rasheed Barbee
+      Inside each of the <code>&lt;td&gt;</code> elements that does not have a class attribute with a value of "left", add <code>&lt;h3&gt;</code> elements that include the name of events (look at the list below)
    </li>
 </ol>
+
+<ol>
+    <li>
+      <strong>9:00 AM</strong> - Introduction
+    </li>
+    <li>
+      <strong>9:10 AM</strong> - Opening
+    </li>
+    <li>
+      <strong>10:00 AM</strong> - Boys Round 1
+    </li>
+    <li>
+      <strong>11:00 AM</strong> - Girls Round 2
+    </li>
+    <li>
+      <strong>12:00 PM</strong> - Boys Round 3
+    </li>
+    <li>
+      <strong>1:00 PM</strong> - Girls Round 4
+    </li>
+    <li>
+      <strong>1:45 PM</strong> - Closing
+    </li>
+  </ol>
 <p>You have created the competition schedule. </p>
