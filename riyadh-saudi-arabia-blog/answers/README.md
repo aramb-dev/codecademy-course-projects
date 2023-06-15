@@ -141,7 +141,6 @@
         </figure>
       </article>
     </section>
-
     <section id="about">
       <article>
         <h2>About Riyadh</h2>
