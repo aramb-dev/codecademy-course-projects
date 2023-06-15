@@ -36,7 +36,7 @@
    <p>Having the right gear is crucial for a successful bird watching outing. Make sure to invest in a good pair of binoculars, a field guide for bird identification, a notepad and pen for taking notes, and comfortable clothing and footwear suitable for outdoor exploration.</p>
    <img src="https://aramb.aramservices.com/bird-watching-blog/imagethree.jpg">
    <p>If you're passionate about bird watching, you'll likely want to explore different bird species and their unique characteristics. This blog will provide a comprehensive guide to various bird species, their migration patterns, and their habitats.</p>
-   <h3>by Saraa Johnson | 1 day ago</h3>
+   <h3>by Saraa B. | 1 day ago</h3>
    <h4>Related Content</h4>
    <ul>
       <li>How to Identify Common Birds</li>
