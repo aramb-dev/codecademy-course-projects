@@ -91,11 +91,9 @@
       <li><a href="">About</a></li>
     </ul>
   </nav>
-
   <header>
     <h1>Riyadh, Saudi Arabia</h1>
   </header>
-
   <main>
     <section id="blog">
       <article>
@@ -107,7 +105,6 @@
         </p>
       </article>
     </section>
-
     <aside>
       <p>Riyadh is famous for its traditional food, which reflects the rich flavors and spices of Arabian cuisine.</p>
       <ol>
@@ -119,7 +116,6 @@
         <li>Luqaimat</li>
       </ol>
     </aside>
-
     <section id="media">
       <article>
         <h2>Discover Riyadh Through Photos</h2>
