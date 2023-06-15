@@ -128,7 +128,7 @@
    </li>
    <li>
       Below the <code>&lt;img&gt;</code> tag, add an <code>&lt;h3&gt;</code> heading that says:<br>
-      “by Saraa Johnson | 1 day ago”
+      “by Saraa B. | 1 day ago”
    </li>
    <li>
       Saraa wants her readers to know that she has written more than one post. Let's create a list of related blog posts. Below the last paragraph, add an <code>&lt;h4&gt;</code> heading that says:<br>
