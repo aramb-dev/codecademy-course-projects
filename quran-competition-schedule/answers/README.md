@@ -6,7 +6,6 @@
     <h1>Annual Aguillar Family Wine Festival</h1>
   </header>
   <div class="container">
-
     <table>
       <thead>
         <tr>
