@@ -77,3 +77,83 @@
       Congrats! You’ve got the beginnings of a solid fashion blog. Feel free to make modifications and practice your HTML by adding more content.
    </li>
 </ol>
+
+<h1>NEW: Saraa's Bird Watching Blog</h1>
+<h2>WEB DEVELOPMENT FOUNDATIONS</h2>
+<h2>Bird Watching Blog</h2>
+<h2>Your friend Saraa is a passionate bird watcher, and she wants to build a new website to share her knowledge and experiences with fellow bird enthusiasts!</h2>
+<p>Use your HTML skills to create the underlying structure of the blog. Incorporate images, headings, paragraphs, and other HTML elements to make the blog visually appealing and informative.</p>
+<p>You can view a completed project and compare it with your own work!</p>
+<p>If you encounter any difficulties or would like to watch a project walkthrough video, click on "Get Unstuck" for guidance.</p>
+<h2>Tasks</h2>
+<ol>
+   <li>
+      Start by adding the <code>&lt;!DOCTYPE html&gt;</code> declaration as the very first line of code at the top of the <code>index.html</code> file. Then, add the <code>&lt;html&gt;</code> element below.
+   </li>
+   <li>
+      Below the <code>&lt;html&gt;</code> opening tag, add a <code>&lt;head&gt;</code> element. After that, include the <code>&lt;body&gt;</code> element.
+   </li>
+   <li>
+      Inside the <code>&lt;head&gt;</code> tags, add a <code>&lt;title&gt;</code> element and set the website title to "Everyday with Saraa".
+   </li>
+   <li>
+      Directly below the opening <code>&lt;body&gt;</code> tag, insert an <code>&lt;h1&gt;</code> heading that says:<br>
+      “An Insider’s Guide to Bird Watching”<br>
+      After that, add an <code>&lt;h2&gt;</code> heading that says:<br>
+      “Getting Started &amp; Essential Gear”<br>
+      Then, add another <code>&lt;h2&gt;</code> heading that says:<br>
+      “Finding the Best Birding Spots”
+   </li>
+   <li>
+      Insert a paragraph between the <code>&lt;h1&gt;</code> and the first <code>&lt;h2&gt;</code> tags using the <code>&lt;p&gt;</code> element:<br>
+      “Saraa is a passionate bird watcher, and she wants to share her knowledge and experiences with fellow bird enthusiasts. Join her on an exciting journey as she explores the world of birds and shares tips and tricks to enhance your bird watching adventures.”
+   </li>
+   <li>
+      Between the first and second <code>&lt;h2&gt;</code> tags, add another paragraph using the <code>&lt;p&gt;</code> element:<br>
+      “If you're new to bird watching, it can be a bit overwhelming. But don't worry, Saraa has got you covered! In this blog post, she will provide you with all the essential information you need to get started, including the necessary gear and equipment.”
+   </li>
+   <li>
+      After the last <code>&lt;h2&gt;</code> tag, add a final paragraph using the <code>&lt;p&gt;</code> element that says:<br>
+      “One of the most exciting aspects of bird watching is discovering new birding spots. In this blog post, Saraa will share her favorite locations for bird watching and provide insights into the diverse species you can expect to encounter.”
+   </li>
+   <li>
+      Of course, this wouldn't be a bird watching blog without some images. Above each paragraph, add an <code>&lt;img&gt;</code> tag and set its <code>src</code> attribute to one of the following image links:<br>
+      - <code>https://content.codecademy.com/courses/learn-html/elements-and-structure/image-one.jpeg</code><br>
+      - <code>https://content.codecademy.com/courses/learn-html/elements-and-structure/image-two.jpeg</code><br>
+      - <code>https://content.codecademy.com/courses/learn-html/elements-and-structure/image-three.jpeg</code>
+   </li>
+   <li>
+      Your first blog post is complete! Now let’s add an image of Saraa, so her readers get to know her. Below the opening <code>&lt;body&gt;</code> tag, add an <code>&lt;img&gt;</code> tag with the following <code>src</code> attribute:<br>
+      - <code>https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg</code>
+   </li>
+   <li>
+      Below the <code>&lt;img&gt;</code> tag, add an <code>&lt;h3&gt;</code> heading that says:<br>
+      “by Saraa Johnson | 1 day ago”
+   </li>
+   <li>
+      Saraa wants her readers to know that she has written more than one post. Let's create a list of related blog posts. Below the last paragraph, add an <code>&lt;h4&gt;</code> heading that says:<br>
+      “Related Content”.<br>
+      Underneath that heading, create an unordered list using the <code>&lt;ul&gt;</code> element.
+   </li>
+   <li>
+      The unordered list should have the following four items as list elements using the <code>&lt;li&gt;</code> element:<br>
+      - “How to Identify Common Birds”<br>
+      - “Birding Gear Guide: Must-Have Essentials”<br>
+      - “Exploring Bird Species: A Comprehensive Guide”<br>
+      - “Best Birding Spots Around the World”
+   </li>
+   <li>
+      Let's make the term 'bird watching' in the first paragraph a clickable link that opens in a new page. Wrap the term in an <code>&lt;a&gt;</code> anchor tag and set the <code>href</code> attribute to: <code>https://en.wikipedia.org/wiki/Bird_watching</code>. Don't forget to include the <code>target="_blank"</code> attribute to open the link in a new tab.
+   </li>
+   <li>
+      Saraa wants to ensure her readers can easily get in touch with her. At the bottom of the body, add a new <code>&lt;div&gt;</code> element and set its <code>id='contact'</code>. Inside the <code>&lt;div&gt;</code>, create a new <code>&lt;p&gt;</code> element and include the following contact information:<br>
+      - email: saraa@birdwatchingblog.com | phone: 123-456-7890 | address: 123 Bird Street, Cityville, USA
+   </li>
+   <li>
+      Inside the contact <code>&lt;div&gt;</code>, surround the terms “email”, “phone”, and “address” with <code>&lt;strong&gt;</code> opening and closing tags.
+   </li>
+   <li>
+      Great job! Now save the file, open it in your web browser, and admire your bird watching blog. Feel free to add more content, images, or customize the layout further to make it your own.
+   </li>
+</ol>
+<p>Remember, the key to becoming a great web developer is practice. The more you build, the better you'll become. Happy coding!</p>
