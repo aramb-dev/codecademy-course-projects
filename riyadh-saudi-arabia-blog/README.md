@@ -199,10 +199,10 @@
   <li>Under the closing &lt;/article&gt; tag, create a &lt;figure&gt; element.</li>
   <li>Within the &lt;figure&gt; element, create four &lt;img&gt; tags. Use the provided links as the src for each image.</li>
   <ul>
-    <li>Image 1: https://content.codecademy.com/courses/Semantic%20HTML/riyadh-landmark-1.jpeg</li>
-    <li>Image 2: https://content.codecademy.com/courses/Semantic%20HTML/riyadh-landmark-2.jpeg</li>
-    <li>Image 3: https://content.codecademy.com/courses/Semantic%20HTML/riyadh-landmark-3.jpeg</li>
-    <li>Image 4: https://content.codecademy.com/courses/Semantic%20HTML/riyadh-landmark-4.jpeg</li>
+    <li>Image 1: https://aramb.aramservices.com/riyadh-saudi-arabia-blog/riyadh-landmark-1.png</li>
+    <li>Image 2: https://aramb.aramservices.com/riyadh-saudi-arabia-blog/riyadh-landmark-2.png</li>
+    <li>Image 3: https://aramb.aramservices.com/riyadh-saudi-arabia-blog/riyadh-landmark-3.png</li>
+    <li>Image 4: https://aramb.aramservices.com/riyadh-saudi-arabia-blog/riyadh-landmark-4.png</li>
   </ul>
   Add <code>&ltfigcaption&gt</code> Caption for each of these images:
   <ol>
