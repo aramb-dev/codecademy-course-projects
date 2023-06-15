@@ -1,5 +1,6 @@
-<h1>WEB DEVELOPMENT FOUNDATIONS</h1>
-<h1>Fashion Blog</h1>
+# Previously: Fashion Blog
+<h2>WEB DEVELOPMENT FOUNDATIONS</h2>
+<h2>Fashion Blog</h2>
 <h2>Your friend Isa is a budding fashion blogger, and she’s asked you to build her a new website, just in time for New York Fashion Week!</h2>
 <p>Use your new HTML knowledge to create the underlying structure of the blog. Make sure to include plenty of pictures, links, lists, and other HTML elements that you’ve learned so that her fans have plenty to read.</p>
 <p>You can view a completed project and see how it compares to your work!</p>
