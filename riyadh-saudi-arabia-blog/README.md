@@ -204,6 +204,14 @@
     <li>Image 3: https://content.codecademy.com/courses/Semantic%20HTML/riyadh-landmark-3.jpeg</li>
     <li>Image 4: https://content.codecademy.com/courses/Semantic%20HTML/riyadh-landmark-4.jpeg</li>
   </ul>
+  Add <code><figcaption></code> Caption for each of these images:
+  <ol>
+    <li>The stunning Kingdom Centre Tower, one of Riyadh’s most iconic skyscrapers.</li>
+    <li>The historic Diriyah Gate, a UNESCO World Heritage Site and symbol of Saudi Arabia’s rich heritage.</li>
+    <li>The vibrant Souq Al Zal, a traditional market offering a wide range of local products and goods.</li>
+    <li>The captivating King Fahd Fountain, the world’s tallest water fountain located in Jeddah. </li>
+    
+  </ol>
   <li>Note: Save your work to see your progress.</li>
 </ol>
 
