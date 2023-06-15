@@ -6,7 +6,6 @@
     <h1>An Insider's Guide to NYFW</h1>
     <img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/image-one.jpg" />
     <p><a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week" target = "_blank">NYFW</a> can be both amazingly fun & incredibly overwhelming, especially if you've never been. Luckily, I'm here to give you an insider's guide and make your first show a pleasurable experience. By taking my tips and tricks, and following your gut, you'll have an unforgettable experience!</p>
-    
     <h2>Getting Tickets & Picking the Shows</h2>
     <img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/image-two.jpeg" />
     <p>If you're lucky or connected you can get an invite, sans the price tag. But I wasn't so lucky or connected my first 2 years so I'm here to help you out. First, plan out which shows are most important to you and make a schedule and this is a biggie: SET A BUDGET. If you're worrying about blowing your cash the whole time you won't have fun. Then check out prices, days, and times and prioritize the designers you want to see most. Lastly, purchase your tickets and get excited!</p>
@@ -22,12 +21,11 @@
     </ul>
     <div id='contact'>
       <p>
-      <strong>email</strong>: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5f362c3e1f393e2c373630313d333038713c3032">[email&#160;protected]</a> | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001
+      <strong>email</strong>: isa@fahionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001
       </p>
     </div>
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
-</html>
 
+<br>
 # NEW: Bird-Watching Blog
 
 <!DOCTYPE html>
