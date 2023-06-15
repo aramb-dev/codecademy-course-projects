@@ -32,9 +32,9 @@
    <p>Bird watching can be a fascinating and rewarding hobby, allowing you to observe various bird species in their natural habitats. Whether you're a beginner or an experienced bird watcher, this blog will provide you with valuable insights and tips to enhance your birding experience.</p>
    <img src="https://aramb.aramservices.com/bird-watching-blog/imageone.jpg">
    <p>If you're new to bird watching, it's essential to learn about the common bird species you're likely to encounter. Understanding their physical characteristics, behaviors, and habitats will make it easier to identify them in the field.</p>
-   <img src="aramb.aramservices.com/bird-watching-blog/imagetwo.jpg">
+   <img src="https://aramb.aramservices.com/bird-watching-blog/imagetwo.jpg">
    <p>Having the right gear is crucial for a successful bird watching outing. Make sure to invest in a good pair of binoculars, a field guide for bird identification, a notepad and pen for taking notes, and comfortable clothing and footwear suitable for outdoor exploration.</p>
-   <img src="aramb.aramservices.com/bird-watching-blog/imagethree.jpg">
+   <img src="https://aramb.aramservices.com/bird-watching-blog/imagethree.jpg">
    <p>If you're passionate about bird watching, you'll likely want to explore different bird species and their unique characteristics. This blog will provide a comprehensive guide to various bird species, their migration patterns, and their habitats.</p>
    <h3>by Saraa Johnson | 1 day ago</h3>
    <h4>Related Content</h4>
