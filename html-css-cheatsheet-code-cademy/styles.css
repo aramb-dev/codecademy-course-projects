@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  box-sizing: border-box;
+  /* overflow: scroll; */
+}
+nav {
+  list-style: none;
+}
+
+.nav * {
+  list-style: none;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  background-color: lightgray;
+}
+
+.dropdown {
+  display: none;
+  padding: 10px;
+  background-color: ghostwhite;
+  position: absolute;
+  top: auto;
+
+}
+
+.dropdown li {
+  padding: 5px;
+}
+
+nav li {
+    padding: 10px
+}
+.nav li:hover .dropdown{
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.elem-struct.table {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    display: flex;
+
+    flex-direction: column;
+}
+
+.elem-struct.table-heading {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.elem-struct.rows {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+}
+
+td {
+  padding: 2px 4px;
+  width: 100% !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  overflow: scroll;
+}
+
+.elem-struct h2 {
+    font-size: larger;
+}
+
+pre {
+  padding: 1rem;
+  color: white;
+  background-color: #211E2F!important;
+}
+.tags {
+  color:#ea6c8b;
+}
+
+.attributes {
+  color: #b4d353;
+}
