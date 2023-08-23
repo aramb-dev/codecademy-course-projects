@@ -1,6 +1,6 @@
 # Codecademy Course Projects
 ### by Abdur-Rahman Bilal
-This repo consists of most projects from the [Full-Stack Engineer Codecademy Course](https://join.codecademy.com/learn/paths/full-stack-engineer-career-path-b/). Some projects are tweaked and changed into something better using my imagination, while others are partially completed websites/projects that I fully completeted.
+This repo consists of most projects from the [Full-Stack Engineer Codecademy Course](https://join.codecademy.com/learn/paths/full-stack-engineer-career-path-b/). Some projects are tweaked and changed into something better using my imagination, while others are partially completed websites/projects that I fully completed.
 
 List of projects:
 - [Bird Watching Blog (tweaked)](https://github.com/aramb-dev/codecademy-course-projects/tree/main/bird-watching-blog)
