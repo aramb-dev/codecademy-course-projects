@@ -92,7 +92,7 @@ nav {
 
 .hero-header {
     top: auto;
-    background-image: url("/assets/img/mission-background.jpg");
+    background-image: URL("./assets/img/mission-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
