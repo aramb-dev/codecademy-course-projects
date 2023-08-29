@@ -158,7 +158,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    background-image: url("/assets/img/locations-background.jpg");
+    background-image: URL("./assets/img/locations-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
