@@ -9,6 +9,7 @@ body {
   .grid {
     display: grid;
     grid-template-rows: 100px 8fr 5fr 4fr 5fr 80px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   }
 
   header {
