@@ -97,13 +97,15 @@ body {
     letter-spacing: 3.7px;
 
   }
-
+/* .one .two span 3 columns */
   .one {
-
+    grid-column-start: 1;
+    grid-column-end: 4;
   }
 
   .two {
-
+    grid-column-start: 1;
+    grid-column-end: 4;
   }
 
   footer {
