@@ -13,6 +13,7 @@ body {
   }
 
   header {
+    display: grid;
     grid-column-start: 1;
     grid-column-end: 7;
   }
@@ -51,6 +52,7 @@ body {
     background-color: #f0f0f0;
     grid-column-start: 1;
     grid-column-end: 7;
+    display: grid;
   }
 
   .text {
@@ -69,7 +71,7 @@ body {
     font-weight: 500;
     letter-spacing: 0.5px;
     text-align: center;
-
+    display: grid;
   }
 
   .address {
@@ -96,7 +98,7 @@ body {
     font-size: 18px;
     font-style: italic;
     letter-spacing: 3.7px;
-
+    display: grid;
   }
 /* .one .two span 3 columns */
   .one {
@@ -117,4 +119,5 @@ body {
     letter-spacing: 0.4px;
     grid-column-start: 1;
     grid-column-end: 7;
+    display: grid;
   }
