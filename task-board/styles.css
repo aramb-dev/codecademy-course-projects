@@ -1,10 +1,10 @@
 @font-face {
 	font-family: WorkSans;
-	src: url("https://content.codecademy.com/courses/learn-css-grid/project-ii/Resources/Work_Sans/WorkSans-Regular.ttf");
+	src: url("./resources/fonts/WorkSans-Regular.ttf");
 }
 @font-face {
 	font-family: Poppins;
-	src: url("https://content.codecademy.com/courses/learn-css-grid/project-ii/Resources/Poppins/Poppins-Regular.ttf");
+	src: url("./resources/fonts/Poppins-Regular.ttf");
 }
 
 html {
@@ -87,6 +87,7 @@ input {
 	min-height: 700px;
     display: grid;
     grid-template-rows: 20, repeat(5,100px);
+    align-content: space-around;
 }
 
 .card-column h2 {
