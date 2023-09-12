@@ -105,3 +105,8 @@ footer .container {
   padding: 5em 0;
   color: white;
 }
+
+@media only screen and (max-width: 960px) {
+  .main {
+
+  }
