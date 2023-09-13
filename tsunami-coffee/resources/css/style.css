@@ -122,4 +122,9 @@ footer .container {
   .rating h1 {
     font-size: 2rem;
   }
+
+  .gallery img {
+    width: 100%;
+    margin: 0;
+  }
 }
