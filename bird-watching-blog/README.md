@@ -119,8 +119,8 @@
    <li>
       Of course, this wouldn't be a bird watching blog without some images. Above each paragraph, add an <code>&lt;img&gt;</code> tag and set its <code>src</code> attribute to one of the following image links:<br>
       - <code>https://aramb.aramservices.com/bird-watching-blog/imageone.jpg</code><br>
-      - <code>https://aramb.aramservices.com/bird-watching-blog/imagetwo.jpeg</code><br>
-      - <code>https://aramb.aramservices.com/bird-watching-blog/imagethree.jpeg</code>
+      - <code>https://aramb.aramservices.com/bird-watching-blog/imagetwo.jpg</code><br>
+      - <code>https://aramb.aramservices.com/bird-watching-blog/imagethree.jpg</code>
    </li>
    <li>
       Your first blog post is complete! Now let’s add an image of Saraa, so her readers get to know her. Below the opening <code>&lt;body&gt;</code> tag, add an <code>&lt;img&gt;</code> tag with the following <code>src</code> attribute:<br>
