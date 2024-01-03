@@ -124,7 +124,7 @@
    </li>
    <li>
       Your first blog post is complete! Now let’s add an image of Saraa, so her readers get to know her. Below the opening <code>&lt;body&gt;</code> tag, add an <code>&lt;img&gt;</code> tag with the following <code>src</code> attribute:<br>
-      - <code>https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg</code>
+      - <code>https://aramb.aramservices.com/bird-watching-blog/avatar.png</code>
    </li>
    <li>
       Below the <code>&lt;img&gt;</code> tag, add an <code>&lt;h3&gt;</code> heading that says:<br>
