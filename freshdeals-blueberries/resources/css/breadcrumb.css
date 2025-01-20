@@ -1,0 +1,17 @@
+/* Adjust css of .breadcrumb > li to style it like a breadcrumb */
+.breadcrumb > li {
+    display: inline;
+}
+
+.breadcrumb li +li:before {
+    content: "> ";
+}
+
+.attribute::before {
+    content: ""!important;
+}
+
+.attribute::after {
+    content: " x "!important;
+vertical-align: super;
+}

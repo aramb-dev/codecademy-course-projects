@@ -1,0 +1,113 @@
+html {
+    font-size: 16px;
+}
+body {
+    background-color: navy;
+    color: #55c0e0;
+}
+
+.branding {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 25%;
+    white-space: nowrap;
+}
+
+.branding img {
+    width: 90%;
+}
+
+.branding a {
+    text-decoration: none;
+    color: #55c0e0;
+    font-size: 1.2rem;
+}
+
+.branding a:hover {
+    color: #fff;
+    transition: 0.3s;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #55c0e0;
+    font-size: 1.2rem;
+}
+
+nav ul li a:hover {
+    color: #fff;
+    transition: 0.3s;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.hero {
+    text-align: center;
+    font-size: 1.5rem;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("../img/cybersecurity.png");
+    background-size: cover;
+    padding: 15px;
+}
+
+.hero-content {
+    background-image: linear-gradient(to right, #000080, #003fa9, #006cc4, #0097d4, #55c0e0);
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.hero-content button {
+    background-color: #55c0e0;
+    cursor: pointer;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+    font-size: 0.9rem;
+}
+/* I want the button to have a shadow effect when hovered and an underline effect with an transition */
+
+.hero-content button:hover {
+    background-color: #fff;
+    color: #55c0e0;
+    transition: 0.3s;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 960px){
+    .branding {
+        white-space: normal;
+    }
+
+    .branding img {
+        display: none;
+    }
+
+}

@@ -1,0 +1,238 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+/* Confusing Header Area */
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: fixed;
+    background-color: black;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    width: 100%;
+}
+
+.logo-container {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+    justify-content: flex-start;
+    width: 168px;
+}
+
+.header-logo {
+    display: flex;
+    flex-flow: row;
+    height: 50px;
+    object-fit: contain;
+    padding-left: 10px;
+    width: fit-content;
+}
+
+.links-container {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-wrap: nowrap!important;
+    width: 1485px;
+}
+
+.links {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.links li {
+    list-style: none;
+    padding: 0 10px;
+}
+
+.links li a {
+    text-decoration: underline;
+    color: seashell;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+/* Maybe: EASY Hero Area */
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+    height: fit-content;
+}
+.hero * {
+    padding: 10px;
+}
+.hero h2 {
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.hero h4 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.hero-header {
+    top: auto;
+    background-image: URL("./assets/img/mission-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tea-month {
+    padding: 30px;
+    width: 100%;
+
+}
+
+.tea-month h2 {
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+}
+
+.tea-month h3 {
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.tea img {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.tea-month-container {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+
+}
+
+main {
+    width: 100%
+}
+
+.tea {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    padding: 10px;
+}
+
+.locations {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-image: URL("./assets/img/locations-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px!important;
+    padding: 50px;
+
+}
+
+.locations h2 {
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding: 15px;
+}
+
+.location-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: space-around;
+    padding: 15px;
+}
+
+.location {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 300px!important;
+    height: 300px!important;
+}
+
+.location h3 {
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.location p {
+    font-size: 1rem;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer h2 {
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    padding-bottom: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+footer h5 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.copyright {
+    padding-top: 30px;
+    padding-left: 20px;
+    text-align: left!important;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
